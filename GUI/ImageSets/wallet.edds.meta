@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{DE9627F2DD51FAEC}SW/sw_wallet_tp/GUI/ImageSets/wallet.tga"
+ Author "desktop-rd0lpaf"
+ ChangeDate 232403025
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "wallet.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}
