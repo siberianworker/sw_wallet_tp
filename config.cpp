@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[] = {"DZ_Data","money","Sakura_items","DZ_Gear_Containers","DZ_Characters"};
+		requiredAddons[] = {"DZ_Data","money"};
 	};
 };
 
